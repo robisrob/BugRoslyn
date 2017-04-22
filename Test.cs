@@ -19,7 +19,7 @@
 
                 void InnerMethod2()
                 {
-                    var temp = outerParam;
+                    //var temp = outerParam;
                 }  
         }
     }
